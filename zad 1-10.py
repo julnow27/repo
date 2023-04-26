@@ -1,3 +1,5 @@
+print("Hello")
+
 # zd.1
 # Napisz funkcję odejmowanie(x,y), 
 # która odejmuje od siebie podane argumenty,
