@@ -1,4 +1,4 @@
-print("Hello")
+
 
 # zd.1
 # Napisz funkcję odejmowanie(x,y), 
@@ -28,6 +28,7 @@ print("Hello")
 # lista = [1,2,3,4,5]
 
 # wynik = ostatni(lista)
+#print("Oto wynik")
 # print(wynik)
 
 
